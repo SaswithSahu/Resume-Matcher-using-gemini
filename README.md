@@ -34,10 +34,6 @@ A smart **Resume Matcher** web app built using **Gemini**, **LangChain**, and **
 
 ---
 
-## 📸 Demo Preview
-
-![screenshot](path_to_screenshot.png)
-
 ---
 
 ## 📦 Installation
